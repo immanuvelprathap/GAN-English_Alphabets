@@ -245,7 +245,7 @@ show_data(X, title="Original Alphabets")
 
 
     
-![png](output_6_0.png)
+![png](images/output_6_0.png)
     
 
 
