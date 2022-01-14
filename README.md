@@ -496,7 +496,7 @@ for epoch in range(epochs):
 
 
     
-![png](output_17_1.png)
+![png](images/output_17_1.png)
     
 
 
@@ -524,7 +524,7 @@ for epoch in range(epochs):
 
 
     
-![png](output_17_3.png)
+![png](images/output_17_3.png)
     
 
 
@@ -552,7 +552,7 @@ for epoch in range(epochs):
 
 
     
-![png](output_17_5.png)
+![png](images/output_17_5.png)
     
 
 
@@ -580,7 +580,7 @@ for epoch in range(epochs):
 
 
     
-![png](output_17_7.png)
+![png](images/output_17_7.png)
     
 
 
@@ -608,7 +608,7 @@ for epoch in range(epochs):
 
 
     
-![png](output_17_9.png)
+![png](images/output_17_9.png)
     
 
 
@@ -636,7 +636,7 @@ for epoch in range(epochs):
 
 
     
-![png](output_17_11.png)
+![png](images/output_17_11.png)
     
 
 
@@ -664,7 +664,7 @@ for epoch in range(epochs):
 
 
     
-![png](output_17_13.png)
+![png](images/output_17_13.png)
     
 
 
@@ -692,7 +692,7 @@ for epoch in range(epochs):
 
 
     
-![png](output_17_15.png)
+![png](images/output_17_15.png)
     
 
 
@@ -720,7 +720,7 @@ for epoch in range(epochs):
 
 
     
-![png](output_17_17.png)
+![png](images/output_17_17.png)
     
 
 
@@ -748,7 +748,7 @@ for epoch in range(epochs):
 
 
     
-![png](output_17_19.png)
+![png](images/output_17_19.png)
     
 
 
@@ -776,7 +776,7 @@ for epoch in range(epochs):
 
 
     
-![png](output_17_21.png)
+![png](images/output_17_21.png)
     
 
 
@@ -804,7 +804,7 @@ for epoch in range(epochs):
 
 
     
-![png](output_17_23.png)
+![png](images/output_17_23.png)
     
 
 
@@ -832,7 +832,7 @@ for epoch in range(epochs):
 
 
     
-![png](output_17_25.png)
+![png](images/output_17_25.png)
     
 
 
@@ -860,7 +860,7 @@ for epoch in range(epochs):
 
 
     
-![png](output_17_27.png)
+![png](images/output_17_27.png)
     
 
 
@@ -888,7 +888,7 @@ for epoch in range(epochs):
 
 
     
-![png](output_17_29.png)
+![png](images/output_17_29.png)
     
 
 
@@ -916,7 +916,7 @@ for epoch in range(epochs):
 
 
     
-![png](output_17_31.png)
+![png](images/output_17_31.png)
     
 
 
@@ -944,6 +944,6 @@ for epoch in range(epochs):
 
 
     
-![png](output_17_33.png)
+![png](images/output_17_33.png)
     
 
