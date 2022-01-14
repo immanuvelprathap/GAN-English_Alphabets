@@ -3,7 +3,7 @@
 # Data Scource
 - https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format
 
-# Generative Adversarial Networks 
+# Generative Adversarial Networks (GANs)
 - refer to a family of generative models that seek to discover the underlying distribution behind a certain data generating process. This distribution is discovered through an adversarial competition between a generator and a discriminator
 
 
