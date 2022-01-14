@@ -945,5 +945,9 @@ for epoch in range(epochs):
 
     
 ![png](images/output_17_33.png)
+
+# Results Gif:
+
+![png](images/E_Alphabet.gif)
     
 
