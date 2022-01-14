@@ -1,1 +1,1 @@
-# GAN---English_Alphabet
+# GAN-English_Alphabet
