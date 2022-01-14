@@ -1,4 +1,4 @@
-# GAN-English_Alphabet
+# GAN-English_Alphabets
 
 # Generative Adversarial Networks 
 - refer to a family of generative models that seek to discover the underlying distribution behind a certain data generating process. This distribution is discovered through an adversarial competition between a generator and a discriminator
